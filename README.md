@@ -1,2 +1,2 @@
-# E-commerce-Customer-Segmentation-Dashboard-Tableau-
-An interactive Tableau dashboard that segments e-commerce customers by region, frequency, and total spending. The project uses visual filters and maps to highlight high-value customer groups and regional purchasing patterns.
+# Netflix-Shows-Analysis-Dashboard-Tableau-
+An interactive Tableau dashboard that analysis Netflix Movies and TV shows by common Genre, Ratings, and Regions. The project uses visual filters and maps to highlight Trends groups and regional patterns.
